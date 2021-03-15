@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "texto";
+    src: url('../fonts/ubuntu/Ubuntu-Light.ttf');
+}
+
+#testimonio {
+	background-color: #f1f1f1;
+	padding: 50px 0 30px 0;
+	margin-top: 40px;
+	text-align: center;
+}
+
+header {
+	margin-top: 120px;
+}
+
+footer {
+	text-align: center;
+	background-color: #f1f1f1;
+	padding: 25px;
+}
+
+#first {
+	font-family: "texto";
+	font-weight: bold;
+}
+
+/*Iconos Redes*/
+.container__footer-iconosredes  {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.container__footer-iconosredes i {
+    padding: 15px;
+   
+}
+
+.container__footer-iconosredes a {
+    color: #000;
+}
+
+.facebook:hover {
+    color: #35a;
+}
+
+.instagram:hover {
+    color: #91a;
+}
+
+.youtube:hover {
+    color: #d11;
+}
+
+.linkedin:hover {
+    color: #35a;
+}
+
+.facebook:active {
+    cursor: progress;
+}
+
+.instagram:active {
+    cursor: progress;
+}
+
+.youtube:active {
+    cursor: progress;
+}
+
+.linkedin:active {
+    cursor: progress;
+}
